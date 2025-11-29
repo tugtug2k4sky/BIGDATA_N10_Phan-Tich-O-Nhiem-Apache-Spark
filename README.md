@@ -8,6 +8,8 @@ Chào mừng các bạn đến với báo cáo thực nghiệm của nhóm 10. �
 THÀNH VIÊN NHÓM
 
 
-## Ngô Xuân Tùng
-## Nguyễn Đào Quốc Việt
-## Nguyễn Đình Thường
+Ngô Xuân Tùng
+
+Nguyễn Đào Quốc Việt 
+
+Nguyễn Đình Thường
